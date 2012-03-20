@@ -1,0 +1,11 @@
+name: EntryConvertBreaks
+id: EntryConvertBreaks
+description: <__trans phrase="EntryConvertBreaks is output entry ConvertBreaks.">
+author_name: <__trans phrase="oscar">
+author_link: http://www.zelazny.mydns.jp/
+plugin_link: https://github.com/naoaki011/mt-plugin-entry-convertbreakes
+version: 1.0
+
+tags:
+  function:
+    EntryConvertBreaks:     $EntryConvertBreaks::EntryConvertBreaks::Tags::convert_breaks
